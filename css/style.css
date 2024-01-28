@@ -130,7 +130,7 @@ header nav .nav-right .search > div img {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    min-height: 90vh;
+    min-height: 85vh;
 }
 
 .hero .cta {
